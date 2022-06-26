@@ -6,8 +6,6 @@ The steganography hides different types of data within a cover file.
 
 The resulting stego file also contains hidden information, although it is virtually identical to the cover file.
 
-##### ---------------------------------------------------------------------------------------------------------------------------------------------
-
 > ## Image Steganography
  Image steganography refers to hiding information i.e. text, images, audios, videos, scripts, exe files in another image.
  
