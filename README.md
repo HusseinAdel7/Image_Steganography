@@ -45,7 +45,7 @@ We know that exe file starts with '0x4D5A'.
 > # How to run this script
 
 ## Install python 
-Download the latest version of python 
+Download the latest version of python [python](https://www.python.org/downloads/)
 ## install labriries that we need
 ```
 pip install ctypes
