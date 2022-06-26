@@ -13,9 +13,9 @@ The resulting stego file also contains hidden information, although it is virtua
  
 I rely on two directions in this tool to hide information in an image:
 
-#### $~~~~~~~~~~~~~~~~~~~$ 1- LSB Method
+#### 1- LSB Method
 
-#### $~~~~~~~~~~~~~~~~~~~$ 2- Hexa Decimal for the Image
+#### 2- Hexa Decimal for the Image
 
 > ### 1- LSB Method 
 
